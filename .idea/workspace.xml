@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c1fd1-bad7-40f4-9000-c3339fb97dd8" name="变更" comment="init">
-      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/java/com/y/YiaoBangBlogApplication.java" afterDir="false" />
+    <list default="true" id="e67c1fd1-bad7-40f4-9000-c3339fb97dd8" name="变更" comment="start">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/java/com/y/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_article.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_article_tag.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_category.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_comment.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_link.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_menu.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_tag.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sys_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/dao/ArticleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/entity/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/enums/AppHttpCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/service/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yiaobang-framework/src/main/java/com/y/service/impl/ArticleServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yiaobang-blog/src/main/java/com/y/YiaoBangBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/yiaobang-blog/src/main/java/com/y/YiaoBangBlogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yiaobang-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yiaobang-framework/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +51,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,27 +81,95 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/Y/桌面/素材库",
+    "last_opened_file_path": "D:/Y/A_JAVA_Code/Project/YBlog/yiaobang-blog/src/main/resources/SQL",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "com.sjhy.plugin.ui.TemplateSettingForm",
+    "spring.configuration.checksum": "2120179c66489e46564bfcb3301264e4",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "21c3628c-3a66-4e12-856a-81391699e173",
+      "2038a052-5310-4cb8-937c-bbdc3ba9e6fa",
+      "2038a052-5310-4cb8-937c-bbdc3ba9e6fa/schema/\"yiaobang_blog\""
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Y\A_JAVA_Code\Project\YBlog\yiaobang-blog\src\main\resources\SQL" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.YiaoBangBlogApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sg_link.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_link.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2038a052-5310-4cb8-937c-bbdc3ba9e6fa" namespace="schema/&quot;yiaobang_blog&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sg_menu.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_menu.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2038a052-5310-4cb8-937c-bbdc3ba9e6fa" namespace="schema/&quot;yiaobang_blog&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sg_tag.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sg_tag.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2038a052-5310-4cb8-937c-bbdc3ba9e6fa" namespace="schema/&quot;yiaobang_blog&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sys_user.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/yiaobang-blog/src/main/resources/SQL/sys_user.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="2038a052-5310-4cb8-937c-bbdc3ba9e6fa" namespace="schema/&quot;yiaobang_blog&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YiaoBangBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yiaobang-blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.y.YiaoBangBlogApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.y.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YiaoBangBlogApplication" />
+        <item itemvalue="数据库脚本.sys_user.sql" />
+        <item itemvalue="数据库脚本.sg_tag.sql" />
+        <item itemvalue="数据库脚本.sg_menu.sql" />
+        <item itemvalue="数据库脚本.sg_link.sql" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +179,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677335075771</updated>
-      <workItem from="1677335076396" duration="1176000" />
+      <workItem from="1677335076396" duration="1886000" />
+      <workItem from="1677336981792" duration="3738000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677335350972</created>
@@ -111,14 +203,33 @@
       <option name="project" value="LOCAL" />
       <updated>1677335681645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start">
+      <created>1677336466961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677336466961</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>
